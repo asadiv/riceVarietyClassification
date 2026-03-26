@@ -56,11 +56,12 @@ The model (RiceClassifier) consists of:
 ### Loss & Accuracy Curves
 <img width="1214" height="624" alt="image" src="https://github.com/user-attachments/assets/e103000f-2b2e-4148-9589-45a4ed6b2af3" />
 
-
+the train loss and test loss are pretty much close to eachother so there is no overfitting, there is no underfitting aswell, i am looking for ways to improve it further.
 
 ### Confusion Matrix
 <img width="675" height="659" alt="image" src="https://github.com/user-attachments/assets/e33f96d3-876f-4513-a60e-680457eb7266" />
 
+the model is making mistakes mainly in seela vs sufaid. it can be clearly seen in the confusion matrix.
 ---
 
 
